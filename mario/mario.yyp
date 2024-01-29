@@ -35,8 +35,12 @@
   },
   "resources": [
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"scr_playermove","path":"scripts/scr_playermove/scr_playermove.yy",},},
     {"id":{"name":"spr_solid","path":"sprites/spr_solid/spr_solid.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
+    {"id":{"name":"scr_playerjump","path":"scripts/scr_playerjump/scr_playerjump.yy",},},
+    {"id":{"name":"scr_playercollide","path":"scripts/scr_playercollide/scr_playercollide.yy",},},
+    {"id":{"name":"scr_playeridle","path":"scripts/scr_playeridle/scr_playeridle.yy",},},
     {"id":{"name":"spr_tile_yellow","path":"sprites/spr_tile_yellow/spr_tile_yellow.yy",},},
     {"id":{"name":"spr_john","path":"sprites/spr_john/spr_john.yy",},},
     {"id":{"name":"tile_mario","path":"tilesets/tile_mario/tile_mario.yy",},},
