@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_tile_mario",
-    "path": "sprites/spr_tile_mario/spr_tile_mario.yy",
+    "name": "spr_tile_yellow",
+    "path": "sprites/spr_tile_yellow/spr_tile_yellow.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
