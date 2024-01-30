@@ -6,6 +6,9 @@ keyjump = keyboard_check(ord("Z"))
 keyjump2 = keyboard_check_pressed(ord("Z"))
 keyrun = keyboard_check(vk_shift)
 
+if keyboard_check_pressed(ord("R"))
+	room_restart()
+
 switch state
 {
 	case "idle":
