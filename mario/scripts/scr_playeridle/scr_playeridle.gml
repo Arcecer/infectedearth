@@ -4,7 +4,7 @@ function scr_playeridle(){
 	xspd = lerp(xspd,0,0.25)
 	if keyleft || keyright
 		state = "move"
-	if keyjump
+	if keyjump2
 	{
 		yspd = jump
 		state = "jump"

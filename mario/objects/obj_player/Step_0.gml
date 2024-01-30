@@ -3,6 +3,7 @@ keyright = keyboard_check(vk_right)
 keyup = keyboard_check(vk_up)
 keydown = keyboard_check(vk_down)
 keyjump = keyboard_check(ord("Z"))
+keyjump2 = keyboard_check_pressed(ord("Z"))
 keyrun = keyboard_check(vk_shift)
 
 switch state
@@ -22,3 +23,5 @@ switch state
 
 x += xspd
 y += yspd
+
+window_set_caption(xspd)

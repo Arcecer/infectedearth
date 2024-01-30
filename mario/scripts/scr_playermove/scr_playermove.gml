@@ -5,7 +5,7 @@ function scr_playermove(){
 		xspd -= 0.2
 	if !(keyleft || keyright)
 		state = "idle"
-	if keyjump
+	if keyjump2
 	{
 		yspd = jump
 		state = "jump"

@@ -25,5 +25,6 @@
     {"name":"scr_playercollide","order":2,"path":"scripts/scr_playercollide/scr_playercollide.yy",},
     {"name":"scr_playeridle","order":1,"path":"scripts/scr_playeridle/scr_playeridle.yy",},
     {"name":"spr_tile_yellow","order":1,"path":"sprites/spr_tile_yellow/spr_tile_yellow.yy",},
+    {"name":"test2","order":1,"path":"rooms/test2/test2.yy",},
   ],
 }
