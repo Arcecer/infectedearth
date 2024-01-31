@@ -40,6 +40,8 @@
     {"id":{"name":"spr_tile_metal","path":"sprites/spr_tile_metal/spr_tile_metal.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
     {"id":{"name":"scr_playerjump","path":"scripts/scr_playerjump/scr_playerjump.yy",},},
+    {"id":{"name":"spr_playerwalk","path":"sprites/spr_playerwalk/spr_playerwalk.yy",},},
+    {"id":{"name":"spr_playeridle","path":"sprites/spr_playeridle/spr_playeridle.yy",},},
     {"id":{"name":"tile_metal","path":"tilesets/tile_metal/tile_metal.yy",},},
     {"id":{"name":"scr_playercollide","path":"scripts/scr_playercollide/scr_playercollide.yy",},},
     {"id":{"name":"scr_playeridle","path":"scripts/scr_playeridle/scr_playeridle.yy",},},
@@ -50,8 +52,8 @@
     {"id":{"name":"test","path":"rooms/test/test.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"test","path":"rooms/test/test.yy",},},
     {"roomId":{"name":"test2","path":"rooms/test2/test2.yy",},},
+    {"roomId":{"name":"test","path":"rooms/test/test.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

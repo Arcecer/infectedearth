@@ -26,5 +26,3 @@ switch state
 
 x += xspd
 y += yspd
-
-window_set_caption(xspd)
